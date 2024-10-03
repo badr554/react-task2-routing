@@ -1,0 +1,19 @@
+.form-nav{
+    display: flex ;
+    flex-direction: column;
+    background-color: #2A3238;
+    padding: 1rem;
+    color: white;
+    height: 308px;
+    width: 242px;
+    position: absolute;
+    left: 50px;
+    top: 160px;
+    border-radius: 20px;
+    font-size: 20px;
+    gap: 2rem;
+}
+.form-nav a{
+    color: white;
+    text-decoration: none;
+}

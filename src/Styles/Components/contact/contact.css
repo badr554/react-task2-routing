@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contact{
+    font-size: 40px;
+    height: 80vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+}
